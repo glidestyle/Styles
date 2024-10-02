@@ -5,9 +5,9 @@ Associate Degree in Computer Science Virtual University, 2022 – Present
 
 ### Projects
 Online Event Management System
-This project developed an online event management system using HTML and CSS, enabling users to efficiently book halls online and access past event reports. It’s designed for administrators, vendors, and customers.
+
 Online To-Do List
-This project developed a simple online to-do list where users can add, edit, and delete tasks, organize them by priority, and mark them as complete. Built with HTML, CSS, and basic JavaScript.
+
 
 ### Certification / Activities
 Freelancing Certification (DigiSkills, 2022): Developed expertise in digital marketing, content writing, and project management.

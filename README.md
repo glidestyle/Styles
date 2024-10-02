@@ -1,4 +1,4 @@
-# Graphic Designer
+# Graphic Designer / Web Developer
 
 ### Education
 Associate Degree in Computer Science Virtual University, 2022 – Present
